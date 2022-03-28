@@ -1,5 +1,5 @@
 # NBA-EDA-in-Databricks
-This repository mainly contains one of my first explorations with Databricks using data from NBA.com. 
+This repository mainly data that was accessed from NBA.com via API. Authors of the notebooks include: Michael Sparkman, Jacob Padden, Jenny Tseng, Kelly Zhang, and Grant Zhong.
 
 The [Data Acquisition notebook](https://github.com/mos397/NBA_Simulation_Project/blob/main/Code/1.NBA_Data_Acquisition.ipynb) was actually run on Google Colab, as the NBA API would not respond if run in Databricks or Jupyter Notebook at the time of exploration (October 2019).
 
